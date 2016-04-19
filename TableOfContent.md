@@ -1,4 +1,7 @@
 # 目次
+## まえがき
+
+## 序文
 
 ## Part 1. イントロダクション
 ### 1. イントロダクション
@@ -131,7 +134,7 @@
 - インシデントを宣言するとき
 - まとめ
 
-### 15. ふりかえり(死体解剖)文化：失敗から学ぶ
+### 15. ふりかえり(検死)文化：失敗から学ぶ
 
 - Googleのふりかえり哲学
 - コラボレーションと知識の共有
@@ -296,8 +299,16 @@
 
 ### 34. まとめ
 
+### A. 稼働率表### B. 本番サービスのためのベストプラクティス集### C. インシデント状況報告書（例）### D. 障害報告書(検死報告書)（例）### E. サービス調整チェックリスト(Launch Coordination Checklist)### F. 本番議事録（例）### 参考文献
+
+### 目次
+
 
 ```
+Foreword
+
+Preface
+
 Part I. Introduction
 
 1. Introduction
@@ -595,4 +606,8 @@ Structured and Rational Decision Making
 Conclusions
 
 34. Conclusion
+
+A. Availability TableB. A Collection of Best Practices for Production ServicesC. Example Incident State DocumentD. Example PostmortemE. Launch Coordination ChecklistF. Example Production Meeting MinutesBibliography
+Index
+
 ```
